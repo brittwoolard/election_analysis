@@ -11,7 +11,11 @@ A Colorado board of election has requested some analysis to help with election a
 ### Analysis and Challenges
 
 The project will be developed using python, our result will be printed in command line and as well saved to a text file. The below information will be provided
+
 • Total number of votes in the congressional election
+
 • Statistics of county who received votes, this will include percentage vote and total number of votes
+
 • Which county had the largest number of votes?
+
 • Breakdown of the number of votes and the percentage of the total votes each candidate received
